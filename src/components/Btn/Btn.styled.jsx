@@ -10,7 +10,6 @@ export const BtnElement = styled.button`
   font-weight: bold;
   border: none;
   background-color: #cab1c79d;
-  box-shadow: 0px 12px 8px 4px #cab1b14d;
   transform: scale(1);
   cursor: pointer;
 
@@ -21,7 +20,6 @@ export const BtnElement = styled.button`
       props.status === 'add'
         ? 'rgba(0, 128, 75, 0.7)'
         : 'rgba(202, 30, 30, 0.6)'};
-    box-shadow: 0px 14px 6px 4px #cab1b98c;
   }
   &:active {
     transform: scale(1.2);
