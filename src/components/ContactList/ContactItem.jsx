@@ -1,4 +1,4 @@
-import PropTypes from 'prop-types';
+// import PropTypes from 'prop-types';
 import { MdPersonRemoveAlt1 } from 'react-icons/md';
 import { ListItem, ListItemData } from './ContactItem.styled';
 import { Btn } from '../Btn/Btn';
